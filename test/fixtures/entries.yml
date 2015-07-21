@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  physical: MyText
+  emotional: MyText
+  career: MyText
+  relationships: MyText
+
+two:
+  physical: MyText
+  emotional: MyText
+  career: MyText
+  relationships: MyText
